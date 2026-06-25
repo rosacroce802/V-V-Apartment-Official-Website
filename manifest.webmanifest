@@ -1,0 +1,20 @@
+{
+  "name": "V&V Apartment & Studio",
+  "short_name": "V&V Apartment",
+  "description": "อพาร์ทเมนต์ตกแต่งครบครัน ย่านไทรม้า นนทบุรี — Fully furnished apartment & studio in Sai Ma, Nonthaburi.",
+  "lang": "th",
+  "dir": "ltr",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0c1f2e",
+  "theme_color": "#0c1f2e",
+  "categories": ["lifestyle", "travel", "business"],
+  "icons": [
+    { "src": "assets/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icons/maskable-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "assets/icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
